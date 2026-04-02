@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/viniciusaj14/viniciusaj14/main/.github/assets/banner.png" alt="Vinicius Alves banner" />
+</p>
 # 👋 Hi, I'm Vinicius Alves
 
 ![Profile views](https://komarev.com/ghpvc/?username=viniciusaj14&label=Profile%20views&color=0e75b6&style=for-the-badge)
