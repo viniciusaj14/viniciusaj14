@@ -1,15 +1,15 @@
-# <p align="center">Vinícius Alves</p>
+<p align="center">
+  <img src="./.github/assets/banner.png" alt="Vinicius Alves banner" />
+</p>
+
+<h1 align="center">Vinicius Alves</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Vinicius%20Alves&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Senior%20QA%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=70" alt="banner"/>
+  <strong>Senior QA Engineer | Backend Developer | AI Enthusiast</strong>
 </p>
 
 <p align="center">
-  <strong>Digital Craftsman (QA Engineer / Backend Developer / AI)</strong>
-</p>
-
-<p align="center">
-  Senior Software Quality Engineer • API Testing • Test Automation • Backend Development • Artificial Intelligence
+  Software Quality • API Testing • Test Automation • Backend with Java • AI applied to Software Engineering
 </p>
 
 ---
@@ -17,25 +17,33 @@
 ## 👋 About me | Sobre mim
 
 🇧🇷
-Olá! Meu nome é **Vinicius Alves** e sou **Engenheiro de Qualidade de Software Sênior**, atualmente atuando no **Banco PAN**.
-Tenho sólida experiência com **testes manuais, funcionais e automatizados** para aplicações **Web, Android e iOS**, sempre com foco em **qualidade, performance e entrega contínua**.
+Sou **Engenheiro de Qualidade de Software Sênior**, com experiência sólida em testes manuais, funcionais e automatizados para aplicações **Web, Android e iOS**.
+Atualmente atuo no **Banco PAN** e venho expandindo minha atuação para **Desenvolvimento Backend com Java + Spring Boot** e **Inteligência Artificial aplicada à Engenharia de Software**.
 
-Minha trajetória combina experiência prática em **automação de testes**, **testes de APIs**, **observabilidade**, **CI/CD** e atuação em **times ágeis**.
-Atualmente, estou expandindo minha carreira para **Desenvolvimento Backend com Java + Spring Boot** e aprofundando meus estudos em **Inteligência Artificial aplicada à Engenharia de Software**.
+Minha experiência inclui:
+
+* Automação de testes Web e API
+* CI/CD e ambientes ágeis
+* Observabilidade e monitoramento
+* Qualidade de software com foco em confiabilidade e escala
 
 Também sou:
 
 * Graduado em **Engenharia Mecatrônica**
 * Tecnólogo em **Automação Industrial**
 * MBA em **Digital Business**
-* Pós-graduando / MBA em **Engenharia de Software pela USP**
+* Cursando MBA em **Engenharia de Software pela USP**
 
 🇺🇸
-Hello! My name is **Vinicius Alves** and I’m a **Senior Software Quality Engineer**, currently working at **Banco PAN**.
-I have solid experience with **manual, functional and automated testing** for **Web, Android and iOS** applications, always focused on **quality, performance and continuous delivery**.
+I’m a **Senior Software Quality Engineer** with strong experience in manual, functional and automated testing for **Web, Android and iOS** applications.
+Currently, I work at **Banco PAN** and I’m expanding my path into **Backend Development with Java + Spring Boot** and **Artificial Intelligence applied to Software Engineering**.
 
-My background combines hands-on experience in **test automation**, **API testing**, **observability**, **CI/CD** and **agile teams**.
-Currently, I’m expanding my career into **Backend Development with Java + Spring Boot** and deepening my studies in **Artificial Intelligence applied to Software Engineering**.
+My experience includes:
+
+* Web and API test automation
+* CI/CD and agile environments
+* Observability and monitoring
+* Software quality focused on reliability and scalability
 
 I also hold:
 
@@ -49,7 +57,7 @@ I also hold:
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,selenium,cypress,postman,git,github,docker,postgres,mysql,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,selenium,cypress,postman,git,github,docker,postgres,mysql,aws&theme=dark" />
 </p>
 
 ---
@@ -68,11 +76,11 @@ I also hold:
 
 ## 🧠 Current Focus | Foco atual
 
-* 🔥 Backend Development with **Java 21 + Spring Boot**
-* 🤖 **AI applied to Software Testing**
-* ⚡ **API Automation** with Rest Assured + Cucumber
-* 📈 Building scalable, reliable and testable systems
-* 🎯 Strengthening my path toward international opportunities
+* Backend Development with **Java 21 + Spring Boot**
+* **AI applied to Software Testing**
+* **API Automation** with Rest Assured + Cucumber
+* Building scalable, reliable and testable systems
+* Strengthening my path toward international opportunities
 
 ---
 
@@ -88,18 +96,18 @@ Test automation framework using **Java + Rest Assured + Cucumber (BDD)** for rel
 
 ### 🔹 AI Test Generator
 
-Project focused on using **Artificial Intelligence** to generate API test scenarios, ideas, prompts and quality accelerators for software teams.
+Project focused on using **Artificial Intelligence** to generate API test scenarios, prompts and productivity accelerators for software teams.
 
 ---
 
 ## 🏆 Highlights
 
-* ✅ Senior QA Engineer
-* ✅ Strong experience in software quality for Web, Mobile and APIs
-* ✅ Test automation mindset with focus on reliability and scalability
-* ✅ Experience in CI/CD and agile environments
-* ✅ Strategic transition into Backend + AI
-* ✅ Technical background combined with business vision
+* Senior QA Engineer
+* Strong experience in software quality for Web, Mobile and APIs
+* Test automation mindset with focus on reliability and scalability
+* Experience in CI/CD and agile environments
+* Strategic transition into Backend + AI
+* Technical background combined with business vision
 
 ---
 
@@ -111,7 +119,7 @@ Project focused on using **Artificial Intelligence** to generate API test scenar
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusaj14&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=viniciusaj14&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -120,10 +128,10 @@ Project focused on using **Artificial Intelligence** to generate API test scenar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/viniciusaj14/">
-    <img src="https://img.shields.io/badge/LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/viniciusaj14">
-    <img src="https://img.shields.io/badge/GitHub-020114?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -139,15 +147,6 @@ My goal is to work on high-impact projects, combining my strong **Software Quali
 
 ---
 
-## ✨ Motto
-
 <p align="center">
   <strong>Always evolving. Always building. Always improving quality.</strong>
 </p>
-
----
-
-## Credits
-
-* GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
-* GitHub Streak Stats by [DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats)
